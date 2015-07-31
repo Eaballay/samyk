@@ -79,7 +79,11 @@ namespace prueba_conexion.Clases
         }
 
     //################3 juan
+<<<<<<< HEAD
 ////############################ juan2.0
+=======
+        //dasdasdasdasdas ezequiel
+>>>>>>> ec7c5d53c32f8b899b33cd92d7a4d0d136b712dd
 
 
 
