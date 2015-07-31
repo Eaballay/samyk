@@ -8,6 +8,7 @@ namespace prueba_conexion.Clases
 {
     class Articulo
     {
+        public string id_articulo;
         public string art_nomb;
         public string art_codi;
         public int id_rubro;
@@ -15,14 +16,13 @@ namespace prueba_conexion.Clases
         public int id_marca;
         public int id_unidad;
         public float art_stock;
-        public string art_estado;
+        public string art_esta;
         public int created_by;
         public DateTime created_at;
         public int deleted_by;
         public DateTime deleted_at;
         public int updated_by;
         public DateTime updated_at;
-
 
         public void set_art_nomb(String value) {
             this.art_nomb = value;
@@ -57,6 +57,17 @@ namespace prueba_conexion.Clases
             this.art_stock = value;
         }
 
+        public void set_art_esta(string value)
+        {
+            this.art_esta = value;
+        }
+
+        public void set_created_by(int value)
+        {
+            this.art_stock = value;
+        }
+
 
     }
 }
+
