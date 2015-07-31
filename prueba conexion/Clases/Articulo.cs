@@ -56,7 +56,6 @@ namespace prueba_conexion.Clases
         public void set_art_stock(float value) {
             this.art_stock = value;
         }   
-        dasdas
 
         public void set_art_esta(string value)
         {
