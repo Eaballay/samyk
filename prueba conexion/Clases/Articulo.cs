@@ -67,11 +67,20 @@ namespace prueba_conexion.Clases
             this.art_stock = value;
         }
 
-//###########################hola
+//###########################juan
         public void set_created_at(DateTime value)
         {
             this.created_at = value;
         }
+
+        public void set_updated_by(int value)
+        {
+            this.updated_by = value;
+        }
+
+    //################3 juan
+
+
 
     }
 }
