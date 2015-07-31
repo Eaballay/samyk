@@ -23,5 +23,40 @@ namespace prueba_conexion.Clases
         public int updated_by;
         public DateTime updated_at;
 
+
+        public void set_art_nomb(String value) {
+            this.art_nomb = value;
+        }
+
+        public void set_art_nomb(String value){
+            this.art_nomb = value;
+        }
+
+        public void set_art_codi(String value){
+            this.art_codi = value;
+        }
+        public void set_id_rubro(int value){
+            this.id_rubro = value;
+        }
+        public void set_id_proveedor(int value)
+        {
+            this.id_proveedor = value;
+        }
+
+        public void set_id_marca(int value)
+        {
+            this.id_marca = value;
+        }
+
+        public void set_id_unidad(int value)
+        {
+            this.id_unidad = value;
+        }
+
+        public void set_art_stock(float value) {
+            this.art_stock = value;
+        }
+
+
     }
 }
