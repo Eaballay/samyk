@@ -1,0 +1,10 @@
+c:\users\ezequiel-pc\documents\visual studio 2013\Projects\prueba conexion\prueba conexion\bin\Debug\prueba conexion.exe.config
+c:\users\ezequiel-pc\documents\visual studio 2013\Projects\prueba conexion\prueba conexion\obj\Debug\prueba conexion.csprojResolveAssemblyReference.cache
+c:\users\ezequiel-pc\documents\visual studio 2013\Projects\prueba conexion\prueba conexion\obj\Debug\prueba_conexion.Form1.resources
+c:\users\ezequiel-pc\documents\visual studio 2013\Projects\prueba conexion\prueba conexion\obj\Debug\prueba_conexion.Properties.Resources.resources
+c:\users\ezequiel-pc\documents\visual studio 2013\Projects\prueba conexion\prueba conexion\obj\Debug\prueba conexion.csproj.GenerateResource.Cache
+c:\users\ezequiel-pc\documents\visual studio 2013\Projects\prueba conexion\prueba conexion\bin\Debug\prueba conexion.exe
+c:\users\ezequiel-pc\documents\visual studio 2013\Projects\prueba conexion\prueba conexion\bin\Debug\prueba conexion.pdb
+c:\users\ezequiel-pc\documents\visual studio 2013\Projects\prueba conexion\prueba conexion\bin\Debug\FirebirdSql.Data.UnitTests.dll
+c:\users\ezequiel-pc\documents\visual studio 2013\Projects\prueba conexion\prueba conexion\obj\Debug\prueba conexion.exe
+c:\users\ezequiel-pc\documents\visual studio 2013\Projects\prueba conexion\prueba conexion\obj\Debug\prueba conexion.pdb
