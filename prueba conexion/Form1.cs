@@ -43,17 +43,24 @@ namespace prueba_conexion
         private void Form1_Load(object sender, EventArgs e)
         {
         
-        try {
+        try
+        {
             cadena = "User=SYSDBA;Password=masterkey;Database=C:\\Users\\Juan\\Desktop\\SAMYK\\samyk\\database.FDB;Datasource=localhost;Port=3050";
-        } catch (Exception ex){
+
+            conexion = new FbConnection(cadena);
+            conexion.Open();
+        }
+        catch (Exception ex)
+        {
             cadena = "User=SYSDBA;Password=masterkey;Database=C:\\Users\\Ezequiel-Pc\\Desktop\\samyk\\samyk\\database.FDB;Datasource=localhost;Port=3050";
+            conexion = new FbConnection(cadena);
+            conexion.Open();
         }
 
-        conexion = new FbConnection(cadena);
 
             try
             {
-                conexion.Open();
+               
 
                 MessageBox.Show("conexion establecida");
                 DataTable dtDatos = new DataTable();
@@ -64,7 +71,7 @@ namespace prueba_conexion
             }
             catch (Exception ex)
             {
-                MessageBox.Show("error" + ex);
+                MessageBox.Show("errdfsdfsdfsdfsdfsdfsdor" + ex);
             }
             finally
             {
