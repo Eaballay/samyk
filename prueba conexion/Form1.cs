@@ -46,7 +46,7 @@ namespace prueba_conexion
         try {
             cadena = "User=SYSDBA;Password=masterkey;Database=C:\\Users\\Juan\\Desktop\\SAMYK\\samyk\\database.FDB;Datasource=localhost;Port=3050";
         } catch (Exception ex){
-            cadena = "User=SYSDBA;Password=masterkey;Database=C:\\Users\\Ezequiel-Pc\\Desktop\\samyk\\database.FDB;Datasource=localhost;Port=3050";
+            cadena = "User=SYSDBA;Password=masterkey;Database=C:\\Users\\Ezequiel-Pc\\Desktop\\samyk\\samyk\\database.FDB;Datasource=localhost;Port=3050";
         }
 
         conexion = new FbConnection(cadena);
