@@ -18,3 +18,13 @@ C:\Users\Juan\Desktop\SAMYK\samyk\prueba conexion\obj\Debug\prueba conexion.cspr
 C:\Users\Juan\Desktop\SAMYK\samyk\prueba conexion\obj\Debug\prueba_conexion.Form1.resources
 C:\Users\Juan\Desktop\SAMYK\samyk\prueba conexion\obj\Debug\prueba_conexion.Properties.Resources.resources
 C:\Users\Juan\Desktop\SAMYK\samyk\prueba conexion\obj\Debug\prueba conexion.csproj.GenerateResource.Cache
+C:\Users\Ezequiel-Pc\Desktop\samyk\samyk\prueba conexion\bin\Debug\prueba conexion.exe.config
+C:\Users\Ezequiel-Pc\Desktop\samyk\samyk\prueba conexion\obj\Debug\prueba conexion.exe
+C:\Users\Ezequiel-Pc\Desktop\samyk\samyk\prueba conexion\obj\Debug\prueba conexion.pdb
+C:\Users\Ezequiel-Pc\Desktop\samyk\samyk\prueba conexion\bin\Debug\prueba conexion.exe
+C:\Users\Ezequiel-Pc\Desktop\samyk\samyk\prueba conexion\bin\Debug\prueba conexion.pdb
+C:\Users\Ezequiel-Pc\Desktop\samyk\samyk\prueba conexion\bin\Debug\FirebirdSql.Data.UnitTests.dll
+C:\Users\Ezequiel-Pc\Desktop\samyk\samyk\prueba conexion\obj\Debug\prueba conexion.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel-Pc\Desktop\samyk\samyk\prueba conexion\obj\Debug\prueba_conexion.Form1.resources
+C:\Users\Ezequiel-Pc\Desktop\samyk\samyk\prueba conexion\obj\Debug\prueba_conexion.Properties.Resources.resources
+C:\Users\Ezequiel-Pc\Desktop\samyk\samyk\prueba conexion\obj\Debug\prueba conexion.csproj.GenerateResource.Cache
