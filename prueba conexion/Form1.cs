@@ -12,8 +12,8 @@ namespace prueba_conexion
 {
     public partial class Form1 : Form
     {
-        static string cadena = "User=SYSDBA;Password=masterkey;Database=C:\\Users\\Ezequiel-Pc\\Documents\\Visual Studio 2013\\Projects\\prueba conexion\\database.FDB;Datasource=localhost;Port=3050";
-        static FbConnection conexion = new FbConnection(cadena);
+        static string cadena;
+        static FbConnection conexion;
         public Form1()
         {
             InitializeComponent();
@@ -42,6 +42,15 @@ namespace prueba_conexion
 
         private void Form1_Load(object sender, EventArgs e)
         {
+        
+        try {
+            cadena = "User=SYSDBA;Password=masterkey;Database=C:\\Users\\Juan\\Desktop\\SAMYK\\samyk\\database.FDB;Datasource=localhost;Port=3050";
+        } catch (Exception ex){
+            cadena = "User=SYSDBA;Password=masterkey;Database=C:\\Users\\Ezequiel-Pc\\Desktop\\samyk\\database.FDB;Datasource=localhost;Port=3050";
+        }
+
+        conexion = new FbConnection(cadena);
+
             try
             {
                 conexion.Open();
