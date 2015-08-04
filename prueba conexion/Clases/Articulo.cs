@@ -67,7 +67,6 @@ namespace prueba_conexion.Clases
             this.art_stock = value;
         }
 
-//###########################juan
         public void set_created_at(DateTime value)
         {
             this.created_at = value;
@@ -78,17 +77,20 @@ namespace prueba_conexion.Clases
             this.updated_by = value;
         }
 
-    //################3 juan
-<<<<<<< HEAD
-////############################ juan2.0
-=======
-        //dasdasdasdasdas ezequiel
->>>>>>> ec7c5d53c32f8b899b33cd92d7a4d0d136b712dd
+        public void set_updated_at(DateTime value)
+        {
+            this.updated_at = value;
+        }
 
+        public void set_deleted_by(int value)
+        {
+            this.updated_by = value;
+        }
 
-///## no se que es esto che juancitooo
-
-
+        public void set_deleted_at(DateTime value)
+        {
+            this.updated_at = value;
+        }
 
     }
 }
